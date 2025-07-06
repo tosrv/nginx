@@ -18,14 +18,14 @@ Jika Nginx berhasil diinstal, kamu akan melihat status active (running).
 
 ## 🚀 Mengakses Nginx
 
-Setelah Nginx aktif, buka browser dan akses:
-http://localhost
+Setelah Nginx aktif, buka browser dan akses:  
+http://localhost  
 
-Atau, jika server menggunakan IP publik:
-http://<IP-SERVER-KAMU>
+Atau, jika server menggunakan IP publik:  
+http://<IP-SERVER-KAMU>  
 
-Kamu akan melihat halaman default Nginx seperti ini:
-    "Welcome to nginx!"
+Kamu akan melihat halaman default Nginx seperti ini:  
+    "Welcome to nginx!"  
 
 ## 🔄 Perintah Umum Nginx
 
